@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 /**
- * struct listint_s singly linked list.
+ * struct listint_s - checks if a singly linked list. has a cycle.
  * @n: integer
  * @next: points to the next node.
  *
